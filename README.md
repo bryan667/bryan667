@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me
 
-<!--
-**bryan667/bryan667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Bryan Martirez  
 
-Here are some ideas to get you started:
+**Experience**
+- **Languages:** JavaScript, TypeScript, C#  
+- **Frontend:** React, Next.js, Vite, Redux, React Query, Tailwind CSS, Bootstrap, MUI, shadcn  
+- **Backend:** Node.js, NestJS, Apollo GraphQL, REST APIs, Microservices  
+- **Cloud & DevOps:** GCP, GKE, AWS, Lambda, ECS, Docker, GitHub Actions, Prometheus & Grafana  
+- **Tools & Platforms:** Firebase, Elasticsearch, Storybook, WordPress, MongoDB, MySQL, Redis, Kafka, KafkaJS, RabbitMQ, Temporal.io, Jest, Playwright, Cypress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project                       | Live                                                                                          |
+| ----------------------------- | -------------------------------------------------------------------------------------------------- |
+| **next.js pc tech store** | [https://nextjs-pc-tech-store.vercel.app/](https://nextjs-pc-tech-store.vercel.app/)               |
+| **space invader go**       | [https://space-invader-go.vercel.app/](https://space-invader-go.vercel.app/)                       |
+| **next.js poe**  | [https://next-path-of-strongest.vercel.app/](https://next-path-of-strongest.vercel.app/)           |
+| **next.js exchange rates app**     | [https://exchange-rates-nextjs-kappa.vercel.app/](https://exchange-rates-nextjs-kappa.vercel.app/) |
+
+
