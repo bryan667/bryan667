@@ -17,15 +17,19 @@ JavaScript, TypeScript, C#
       <a href="https://nextjs-pc-tech-store.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </td>
     <td>
+      <strong>Rust image converter</strong><br>
+      <a href="https://rust-image-converter.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+    </td>
+    <td>
       <strong>Space Invader Go</strong><br>
       <a href="https://space-invader-go.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </td>
+  </tr>
+  <tr>
     <td>
       <strong>Next.js PoE</strong><br>
       <a href="https://next-path-of-strongest.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <strong>Exchange Rates App</strong><br>
       <a href="https://exchange-rates-nextjs-kappa.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
@@ -33,11 +37,7 @@ JavaScript, TypeScript, C#
     <td>
       <strong>Test chat app</strong><br>
       <a href="https://storied-entremet-9f6648.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
-    </td>    
-    <td>
-      <strong>Rust image converter</strong><br>
-      <a href="https://rust-image-converter.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
-    </td> 
+    </td>
   </tr>
 </table>
 
