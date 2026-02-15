@@ -34,6 +34,10 @@ JavaScript, TypeScript, C#
       <strong>Test chat app</strong><br>
       <a href="https://storied-entremet-9f6648.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </td>    
+    <td>
+      <strong>Rust image converter</strong><br>
+      <a href="https://rust-image-converter.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+    </td> 
   </tr>
 </table>
 
