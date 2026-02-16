@@ -13,12 +13,16 @@ JavaScript, TypeScript, C#
 <table>
   <tr>
     <td>
-      <strong>Next.js PC Store</strong><br>
-      <a href="https://nextjs-pc-tech-store.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+      <strong>Next.js Vacation Site</strong><br>
+      <a href="https://next-vacation-site.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </td>
     <td>
       <strong>Rust image converter</strong><br>
       <a href="https://rust-image-converter.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+    </td>
+    <td>
+      <strong>Next.js PC Store</strong><br>
+      <a href="https://nextjs-pc-tech-store.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </td>
     <td>
       <strong>Space Invader Go</strong><br>
