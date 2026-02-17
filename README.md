@@ -38,10 +38,6 @@ JavaScript, TypeScript, C#
       <strong>Exchange Rates App</strong><br>
       <a href="https://exchange-rates-nextjs-kappa.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </td>
-    <td>
-      <strong>Test chat app</strong><br>
-      <a href="https://storied-entremet-9f6648.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
-    </td>
   </tr>
 </table>
 
