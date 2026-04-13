@@ -38,6 +38,10 @@ JavaScript, TypeScript, C#
       <strong>Exchange Rates App</strong><br>
       <a href="https://exchange-rates-nextjs-kappa.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </td>
+    <td>
+      <strong>Rubik's Cube</strong><br>
+      <a href="https://rubiks-cube-3d-beryl.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>      
+    </td>
   </tr>
 </table>
 
