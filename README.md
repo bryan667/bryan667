@@ -42,6 +42,10 @@ JavaScript, TypeScript, C#
       <strong>Rubik's Cube</strong><br>
       <a href="https://rubiks-cube-3d-beryl.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>      
     </td>
+    <td>
+      <strong>DEAS testing</strong><br>
+      <a href="https://disaster-early-alert-system.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>      
+    </td>
   </tr>
 </table>
 
